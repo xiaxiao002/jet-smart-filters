@@ -1,0 +1,19 @@
+{
+	"name": "xiaxiao002/jet-smart-filters",
+	"description": "",
+	"keywords": [
+		"wordpress",
+		"plugin"
+	],
+	"homepage":"https://github.com/xiaxiao002/jet-smart-filters",
+	"authors": [
+		{
+		"name": "jet-smart-filters",
+		"homepage":"https://eileenlue.com"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">5.6"
+	}
+}
